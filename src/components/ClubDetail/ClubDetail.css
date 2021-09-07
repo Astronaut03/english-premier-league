@@ -1,0 +1,42 @@
+.text-style {
+    text-align:left;
+}
+/* .information-background{
+    background-color: cadetblue;
+} */
+.badge img{
+    width: 400px;
+    height:200px;
+}
+
+/* .image-position img{
+  
+    width: 100%;
+    height:300px;
+    border-radius: 5px;
+    position: relative; 
+    border: 1px solid blue;
+} */
+
+.team-details{
+   
+    border-radius:5px;
+ 
+}
+
+.icon{
+    margin:left 500px;
+    /* display: flex; */
+}
+
+.icon a img{
+    /* border: 5px solid gray; */
+    width:50px;
+    /* margin: auto; */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    
+}
+
+
